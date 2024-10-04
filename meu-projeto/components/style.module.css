@@ -1,0 +1,28 @@
+
+.boxTop{
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+}
+.logo{
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.button{
+    background-color: transparent;
+    border: 1px solid hsl(144, 76%, 15%);
+    border-radius: 10px;
+    background-color: #044c24;
+    padding: 10px 20px;
+    color: white;
+}
+.button:hover{
+    background-color: #3fb86d;
+}
+.paragrafo{
+    text-align: justify;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}

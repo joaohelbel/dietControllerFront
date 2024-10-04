@@ -1,0 +1,6 @@
+/* Aplica a cor de fundo para toda a página */
+body {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.7111636891084558) 0%, rgba(0, 98, 55, 1) 100%);
+  background-repeat: no-repeat;
+}
